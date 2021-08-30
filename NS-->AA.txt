@@ -5,3 +5,4 @@ NA-programma ->  AA-programma
 Gebruik -> drinken
 onze verslaving -> ons alcoholisme
 rein -> nuchter
+clean -> nuchter
